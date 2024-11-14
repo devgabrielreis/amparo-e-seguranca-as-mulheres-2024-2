@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F4F4F4;
+}
+
+p {
+    color: #4F4F4F;
+}
+
+.wrapper-conteudo {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.conteudo {
+    margin: 0 auto;
+}
+
+.titulo {
+    font-size: 5rem;
+}
+
+.subtitulo {
+    font-size: 3rem;
+}
+
+.titulo,
+.subtitulo {
+    color: #4A188C;
+    font-weight: bold;
+}
+
+.titulo,
+.subtitulo,
+p {
+    text-align: center;
+}
+
+.destaque {
+    color: #FF36AB;
+}
