@@ -41,6 +41,11 @@ p {
     text-align: center;
 }
 
+.fonte {
+    text-align: right;
+    font-size: small;
+}
+
 .destaque {
     color: #FF36AB;
 }
