@@ -44,3 +44,15 @@ p {
 .destaque {
     color: #FF36AB;
 }
+
+.wrapper-imagem {
+    background-color: #4F4F4F;
+    transform: rotate(2deg);
+    border-radius: 10px;
+}
+
+.wrapper-imagem img {
+    border-radius: 10px;
+    width: 100%;
+    transform: rotate(-4deg);
+}
