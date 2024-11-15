@@ -40,6 +40,7 @@ p {
 .fonte {
     text-align: right;
     font-size: small;
+    margin-right: 1rem;
 }
 
 .destaque {
